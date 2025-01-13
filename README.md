@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dilshanrawishka&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://github.com/Dilshanrawishka">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
