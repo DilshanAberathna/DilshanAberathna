@@ -6,7 +6,8 @@
 <!-- Snake -->
 <div align="center">
     
-  ![snake gif](https://github.com/Dilshanrawishka/Dilshanrawishka/blob/output/github-snake-dark.svg)
+ ![snake_gif](https://github.com/Dilshanrawishka/MeghnaS21/blob/output/github-snake-dark.svg)
+
 </div>
 
 
