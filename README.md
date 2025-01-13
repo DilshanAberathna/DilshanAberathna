@@ -3,11 +3,8 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dilshanrawishka&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-<div align="center">
-  <a href="https://github.com/Dilshanrawishka">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![snake_gif](https://github.com/Dilshanrawishka/Dilshanrawishka/blob/output/github-snake-dark.svg)
+
 
 ### Who_am_I
 
