@@ -20,6 +20,7 @@
 <td width="50%" align="left">
 
 
+- 🔭 I’m currently working on **Test**
   
 - 🌱 I’m currently learning **Networking**
 
@@ -29,7 +30,7 @@
 
 - 📫 How to reach me **dilshanrawishka6@gmail.com**
   
-- ⚡ Fun fact **Legal troublemaker**
+- ⚡ Fun fact **Call me as VISKI**
 
 </td>
 <td width="50%" align="center">
