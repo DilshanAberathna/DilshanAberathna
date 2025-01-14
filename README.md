@@ -19,5 +19,5 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dilshanrawishka/Dilshanrawishka/output/github-snake-dark.svg" alt="snake gif" />
+ ![Snake Animation](https://raw.githubusercontent.com/Dilshanrawishka/Dilshanrawishka/output/github-contribution-grid-snake-dark.svg)
 </div>
