@@ -1,3 +1,13 @@
+<!-- Socials -->
+<div align="center">
+  
+## 🌐 Connect with Me 🍬
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rawishkadilshan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/technologyhell](https://www.facebook.com/profile.php?id=100073837133903&mibextid=ZbWKwL)) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rawishka-dilshan) ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
+
+</div>
+
+
+
 <!-- Tech Stack -->
 <div align="center">
   
