@@ -18,6 +18,3 @@
 </div>
 
 
-<div align="center">
- ![Snake Animation](https://raw.githubusercontent.com/Dilshanrawishka/Dilshanrawishka/output/github-contribution-grid-snake-dark.svg)
-</div>
